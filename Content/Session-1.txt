@@ -1,0 +1,25 @@
+Memory Layout
+	-Stack
+	-Heap Memory
+	
+	<program-name> ----parms
+	-dev
+	-QA
+	-UAT/Pre-Prod
+	-PROD
+	
+1.Text Segment==> where the executable code of the program is stored.
+2.Data Segment==>Stores global and static varibles that are created by a progarmmer
+			int a=10; //intialized data segment
+			int a; (BSS)=> block started by symbol
+3.Heap Segment==> int *ptr=(int *) malloc(sizeof(int)*10)
+4.Stack Segment=> void function()
+{
+
+int local_val=10;//stored in the stack
+}
+
+lm==> loaded modules
+!address=> view your memmory layout of the program
+k=> view stack information
+!heap=>view heap allocations
