@@ -50,6 +50,11 @@ Activations Records
 	
 	
 	-memset() and memcpy()
+	=> memset()
 	
+	Problem STatement
+	Pointer to Array and Pointer
 	
+	A pointer array and use pointer arithmatic to access elements
 	
+	funtion pointers

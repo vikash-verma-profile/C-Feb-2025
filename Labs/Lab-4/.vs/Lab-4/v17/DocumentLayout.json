@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Lab-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EA3B52-0355-4D3E-9A5A-2A5FD90C7734}|Lab-4\\Lab-4.vcxproj|C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Lab-4\\Lab-4\\sample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7EA3B52-0355-4D3E-9A5A-2A5FD90C7734}|Lab-4\\Lab-4.vcxproj|solutionrelative:Lab-4\\sample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sample.c",
+              "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Lab-4\\Lab-4\\sample.c",
+              "RelativeDocumentMoniker": "Lab-4\\sample.c",
+              "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Lab-4\\Lab-4\\sample.c",
+              "RelativeToolTip": "Lab-4\\sample.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-17T11:16:20.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
