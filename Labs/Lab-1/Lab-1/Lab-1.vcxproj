@@ -19,6 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Control-access.cpp" />
+    <ClCompile Include="Control-link.c" />
+    <ClCompile Include="DemoAroundActivation.c" />
+    <ClCompile Include="memory.c" />
     <ClCompile Include="Source.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

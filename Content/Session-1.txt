@@ -23,3 +23,22 @@ lm==> loaded modules
 !address=> view your memmory layout of the program
 k=> view stack information
 !heap=>view heap allocations
+
+Activations Records
+
+--> Its a Contiguous block of the storage that manges information required by a single execution of procedure
+
+
+-Activation record includes
+
+	-Return values
+	-Patameter list
+	-Control links dynamic
+	-Access links static
+	-Saved Machine status
+	-Local Data
+	
+	
+	==> PROLOG==>Setup of the stack frame
+	==> B-LOGIC==>Function logix execution
+	==> EPILOG==> Stack Cleanup before returning 
