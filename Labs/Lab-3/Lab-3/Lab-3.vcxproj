@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Memcpyvsmemset.c" />
+    <ClCompile Include="Pointer.c" />
     <ClCompile Include="Source.c" />
+    <ClCompile Include="voidpointer.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

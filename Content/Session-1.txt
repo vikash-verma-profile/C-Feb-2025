@@ -42,3 +42,14 @@ Activations Records
 	==> PROLOG==>Setup of the stack frame
 	==> B-LOGIC==>Function logix execution
 	==> EPILOG==> Stack Cleanup before returning 
+	
+	pointer to COnstant vs Constant Pointer
+	
+	1. A pointer to a constant allows modification the pointer, but not the data it points to.
+	2. COnstant Pointer allows modification in data,but not the pointer itself
+	
+	
+	-memset() and memcpy()
+	
+	
+	

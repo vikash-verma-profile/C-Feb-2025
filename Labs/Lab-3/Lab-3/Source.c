@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
+int main1() {
 	int* arr = (int*)malloc(5 * sizeof(int));
 	if (arr == NULL) {
 		printf("Memory allocation failed \n");
