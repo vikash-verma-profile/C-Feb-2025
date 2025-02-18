@@ -1,3 +1,44 @@
 struct Student{
 //fields
 }
+
+
+struct vs Union
+
+create an employee union
+	-Empid
+	-EMployeename
+	-gender
+	-salary
+-get employee data
+-print employee data
+
+
+DATA STRUCTURE
+	-Insertion
+	-Deletion
+	-Searching
+	-Sorting
+	
+Why??
+	-Efficent data management
+	-Optimized performance
+	-better memory management
+	-Faciliate Complex problems
+	
+	
+	Linear Data structure
+	-Array=> fixed collection of elements of the same type
+	-Linked List==> a dyamic collection of nodes linked via pointers
+	-Stack==> Elements are added and removed from the top(LIFO)
+	-Queue==> Elements are added and removed from the front(FIFO)
+	-Dequeue(Double-ENded Queue)==>Elements are added and removed from both sides
+	
+	Non-Linear Data structure(Store in a hierarical or interconnected way)
+	-Tree==> Hierarical structure with a root and child nodes
+	-Graph==> COllection of nodes connected by edges
+	
+	Why Use data structures in C==>
+	1.Low-level memory conrtrol==> 
+	2.used in system programming/os development
+	3.High performance

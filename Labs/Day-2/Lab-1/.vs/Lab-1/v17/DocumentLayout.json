@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81C569E6-53D6-4AA5-9875-5EEF1F737B6C}|Lab-1\\Lab-1.vcxproj|C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-1\\Lab-1\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81C569E6-53D6-4AA5-9875-5EEF1F737B6C}|Lab-1\\Lab-1.vcxproj|solutionrelative:Lab-1\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{81C569E6-53D6-4AA5-9875-5EEF1F737B6C}|Lab-1\\Lab-1.vcxproj|C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-1\\Lab-1\\UnionSample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81C569E6-53D6-4AA5-9875-5EEF1F737B6C}|Lab-1\\Lab-1.vcxproj|solutionrelative:Lab-1\\UnionSample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C569E6-53D6-4AA5-9875-5EEF1F737B6C}|Lab-1\\Lab-1.vcxproj|C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-1\\Lab-1\\Sample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81C569E6-53D6-4AA5-9875-5EEF1F737B6C}|Lab-1\\Lab-1.vcxproj|solutionrelative:Lab-1\\Sample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-1\\Lab-1\\Source.c",
-              "RelativeDocumentMoniker": "Lab-1\\Source.c",
-              "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-1\\Lab-1\\Source.c",
-              "RelativeToolTip": "Lab-1\\Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Title": "UnionSample.c",
+              "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-1\\Lab-1\\UnionSample.c",
+              "RelativeDocumentMoniker": "Lab-1\\UnionSample.c",
+              "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-1\\Lab-1\\UnionSample.c",
+              "RelativeToolTip": "Lab-1\\UnionSample.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-18T04:29:26.562Z",
+              "WhenOpened": "2025-02-18T06:21:44.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sample.c",
+              "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-1\\Lab-1\\Sample.c",
+              "RelativeDocumentMoniker": "Lab-1\\Sample.c",
+              "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-1\\Lab-1\\Sample.c",
+              "RelativeToolTip": "Lab-1\\Sample.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-18T05:46:05.372Z",
               "EditorCaption": ""
             }
           ]

@@ -18,5 +18,11 @@
     <ClCompile Include="Source.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Sample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UnionSample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

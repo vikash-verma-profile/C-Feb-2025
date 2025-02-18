@@ -33,7 +33,7 @@ void printStudents(struct Student s) {
 	printf("Age: %d\n",s.Age);
 	printf("Marks: %.2f\n",s.marks);
 }
-int main() {
+int main1() {
 	struct Student s1;
 	struct Student s2 = { 101,"Vikash verma",89.5 }; //C89
 	s1 = (struct Student) //C99
