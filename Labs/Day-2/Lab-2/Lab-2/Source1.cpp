@@ -6,7 +6,7 @@ using namespace std;
 
 
 //hotel management
-int main() {
+int main5() {
 	stack<int, vector<int>> hotelrooms; // to  manage room allocation
 	hotelrooms.push(101);
 	cout << "Guest Checked into Room 101" << endl;

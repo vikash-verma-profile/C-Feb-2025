@@ -55,16 +55,51 @@ Why??
 			-Lists==>  (Doubly linked list)List container store data in non-contiguous memory unike vectors
 			-Forward Lists==> single link list
 		2.Container Adaptors
-			-Stack
+			-Stack==>
 			-Queue
 			-Priority queue
-		3.Associative Conatiners
+		3.Associative Conatiners==> elements are stored in sorted order
+			-Sets
+			-Maps
+			-Multisets
+			-Multimaps
 		4.UnOrdered Associative COnatiners
+			-UnOrdered Sets
+			-UnOrdered Maps
+			-UnOrdered Multisets
+			-UnOrdered Multimaps
 		
 	2.Alogorithms
+		-Manipultive Alogorithms
+			-copy
+			-fill
+			-transform
+			-remove
+		-non manipulating Alogorithms
+			-max_element
+			-find
+			-count
+			-is_sorted
 	3.Itearators
+		-input => used to read values from a suquence once and only move forward
+		-output=> used to write values into a sequence once and only move forward
+		-Forward=> Combitnation of input +output
+		-Bidirectional=> forward and backward
+		-Random access=> in addition give a random access to an elements
 	4.Functors
+		-Airthmatic
+		-Relational Functors
+		-Logical 
+		-Bitwise Functors
 	
 	
 	
 	list<int>==> create a struct employye/student
+	
+	abcdfasdas
+	
+	a=>
+	b=>
+	c=>
+	
+	
