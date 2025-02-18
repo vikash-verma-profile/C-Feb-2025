@@ -2,7 +2,7 @@
 #include <list>
 using namespace std;
 
-int main() {
+int main2() {
 	list<int> samplelist{ 12,24,23,12 };
 	/*for (auto i : samplelist)
 	{

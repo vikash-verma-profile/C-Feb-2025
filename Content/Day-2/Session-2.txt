@@ -54,7 +54,10 @@ Why??
 			-Dequeue==> double ended queue. Expension and contraction
 			-Lists==>  (Doubly linked list)List container store data in non-contiguous memory unike vectors
 			-Forward Lists==> single link list
-		2.COntainer Adaptors
+		2.Container Adaptors
+			-Stack
+			-Queue
+			-Priority queue
 		3.Associative Conatiners
 		4.UnOrdered Associative COnatiners
 		
