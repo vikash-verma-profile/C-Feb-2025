@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E327FFD-B5D7-4C7D-B6EE-2A5A8D30316B}|Lab-2\\Lab-2.vcxproj|C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-2\\Lab-2\\Lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E327FFD-B5D7-4C7D-B6EE-2A5A8D30316B}|Lab-2\\Lab-2.vcxproj|solutionrelative:Lab-2\\Lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E327FFD-B5D7-4C7D-B6EE-2A5A8D30316B}|Lab-2\\Lab-2.vcxproj|C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-2\\Lab-2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8E327FFD-B5D7-4C7D-B6EE-2A5A8D30316B}|Lab-2\\Lab-2.vcxproj|solutionrelative:Lab-2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lists.cpp",
+              "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-2\\Lab-2\\Lists.cpp",
+              "RelativeDocumentMoniker": "Lab-2\\Lists.cpp",
+              "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-2\\Lab-2\\Lists.cpp",
+              "RelativeToolTip": "Lab-2\\Lists.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T09:39:18.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-2\\Lab-2\\Source.cpp",
               "RelativeDocumentMoniker": "Lab-2\\Source.cpp",
               "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\C-Feb-2025\\Labs\\Day-2\\Lab-2\\Lab-2\\Source.cpp",
               "RelativeToolTip": "Lab-2\\Source.cpp",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-18T09:07:38.786Z",
               "EditorCaption": ""

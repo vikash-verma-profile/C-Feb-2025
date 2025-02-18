@@ -52,8 +52,8 @@ Why??
 			-Arrays==> non-resizable
 			-Vectors==> Dynamic sized array
 			-Dequeue==> double ended queue. Expension and contraction
-			-Lists==>  List container store data in non-contiguous memory unike vectors
-			-Forward Lists
+			-Lists==>  (Doubly linked list)List container store data in non-contiguous memory unike vectors
+			-Forward Lists==> single link list
 		2.COntainer Adaptors
 		3.Associative Conatiners
 		4.UnOrdered Associative COnatiners
@@ -61,3 +61,7 @@ Why??
 	2.Alogorithms
 	3.Itearators
 	4.Functors
+	
+	
+	
+	list<int>==> create a struct employye/student

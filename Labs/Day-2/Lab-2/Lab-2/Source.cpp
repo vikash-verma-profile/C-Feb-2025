@@ -8,7 +8,7 @@ void printV(vector<int> &v) {
 		cout << v[i] << " ";
 	}
 }
-int main() {
+int main1() {
 	vector<int> v1;
 	vector<int> v2 = { 1,2,3,4,5 };
 
