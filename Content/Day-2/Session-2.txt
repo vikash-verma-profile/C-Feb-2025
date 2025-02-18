@@ -42,3 +42,22 @@ Why??
 	1.Low-level memory conrtrol==> 
 	2.used in system programming/os development
 	3.High performance
+	
+	
+	STL
+	
+	Standard Template Library
+	1.Containers==>Container are the data stuructures used to store objects
+		1.Sequence Containers
+			-Arrays==> non-resizable
+			-Vectors==> Dynamic sized array
+			-Dequeue==> double ended queue. Expension and contraction
+			-Lists==>  List container store data in non-contiguous memory unike vectors
+			-Forward Lists
+		2.COntainer Adaptors
+		3.Associative Conatiners
+		4.UnOrdered Associative COnatiners
+		
+	2.Alogorithms
+	3.Itearators
+	4.Functors
