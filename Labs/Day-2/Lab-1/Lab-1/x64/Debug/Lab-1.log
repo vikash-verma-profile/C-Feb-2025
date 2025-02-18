@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Level Up Solutions 1\Desktop\C-Feb-2025\Labs\Day-2\Lab-1\Lab-1\Source.c(25,15): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Level Up Solutions 1\Desktop\C-Feb-2025\Labs\Day-2\Lab-1\Lab-1\Source.c(41,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Level Up Solutions 1\Desktop\C-Feb-2025\Labs\Day-2\Lab-1\Lab-1\Source.c(38,43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab-1.vcxproj -> C:\Users\Level Up Solutions 1\Desktop\C-Feb-2025\Labs\Day-2\Lab-1\x64\Debug\Lab-1.exe
