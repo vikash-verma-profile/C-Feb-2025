@@ -7,7 +7,7 @@ int main() {
 	vector<int> v1 = { 1 ,2,3,4 };
 
 	//decalre an irerator
-	vector<int>::iterator i1;
+	 vector<int>::iterator i1;
 
 	
 	/*vector<int>::iterator i2;
