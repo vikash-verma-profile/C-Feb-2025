@@ -1,0 +1,3 @@
+gcc -o sample.exe sample.c
+
+gcc -shared -o sample.dll sample.c
